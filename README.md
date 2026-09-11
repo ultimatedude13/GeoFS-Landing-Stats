@@ -17,7 +17,7 @@ This is a JavaScript plugin for GeoFS that shows your landing statistics after y
 
 1. **Installation**:
    - Use a userscript extension like Tampermoney or Violentmoney to manage and run userscripts.
-   - Once the extension is installed, create a new script, paste in the code from userscript.js, and save it.
+   - Once the extension is installed, create a new script, paste in the code from GeoFSLandingStats.userscript.js, and save it.
 
 2. **Viewing the Stats**:
    - Stats appear on the top left of screen upon landing.
