@@ -6,10 +6,11 @@ This is a JavaScript plugin for GeoFS that shows your landing statistics after y
 
 - **Landing Statistics**: Displays data like vertical speed, G-forces, ground speed, and airspeed.
 - **Landing Feedback**:
-  - "SUPER BUTTER" (Smooth landing)
-  - "ACCEPTABLE" (Moderate landing)
-  - "HARD LANDING" (Rough landing)
-  - "CRASH" (You dead)
+  - "Butter"
+  - "Smooth
+  - "Acceptable"
+  - "Hard Landing
+  - "Crash"
 - **Touchdown Zone Indicator**: Shows whether you landed in the touch down zone.
 - **Bounce Counter**: Shows the amount of bounces when landing.
 
